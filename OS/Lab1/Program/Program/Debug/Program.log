@@ -1,0 +1,7 @@
+﻿  Program.cpp
+D:\VisualStudio\OSProjects\OS\Lab1\DynamicLibrary\Vector\Vector\Vector.h(27,12): warning C4251: 'math::Vector::x_': class 'math::Number' needs to have dll-interface to be used by clients of class 'math::Vector'
+D:\VisualStudio\OSProjects\OS\Lab1\StaticLibrary\Number\Number\Number.h(7): message : see declaration of 'math::Number'
+D:\VisualStudio\OSProjects\OS\Lab1\DynamicLibrary\Vector\Vector\Vector.h(27,16): warning C4251: 'math::Vector::y_': class 'math::Number' needs to have dll-interface to be used by clients of class 'math::Vector'
+D:\VisualStudio\OSProjects\OS\Lab1\StaticLibrary\Number\Number\Number.h(7): message : see declaration of 'math::Number'
+  Program.vcxproj -> D:\VisualStudio\OSProjects\OS\Lab1\Program\Debug\Program.exe
+  Скопировано файлов: 0.
