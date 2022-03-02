@@ -1,0 +1,3 @@
+/home/vasiliykurnosov/CPP_Projects/Lab2/StaticLibrary/Number/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/vasiliykurnosov/CPP_Projects/Lab2/StaticLibrary/Number/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/vasiliykurnosov/CPP_Projects/Lab2/StaticLibrary/Number/cmake-build-debug/CMakeFiles/Number.dir
