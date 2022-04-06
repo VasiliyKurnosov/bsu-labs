@@ -1,0 +1,3 @@
+/home/vasiliykurnosov/CPP_Projects/bsu-labs/OS/Lab5_Linux/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/vasiliykurnosov/CPP_Projects/bsu-labs/OS/Lab5_Linux/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/vasiliykurnosov/CPP_Projects/bsu-labs/OS/Lab5_Linux/cmake-build-debug/CMakeFiles/Lab5_Linux.dir
