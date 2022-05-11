@@ -1,0 +1,3 @@
+/home/vasiliykurnosov/CPP_Projects/bsu-labs/OS/Lab7_Linux/SimpleProcess/cmake-build-debug/CMakeFiles/SimpleProcess.dir
+/home/vasiliykurnosov/CPP_Projects/bsu-labs/OS/Lab7_Linux/SimpleProcess/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/vasiliykurnosov/CPP_Projects/bsu-labs/OS/Lab7_Linux/SimpleProcess/cmake-build-debug/CMakeFiles/rebuild_cache.dir

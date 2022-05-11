@@ -1,0 +1,3 @@
+/home/vasiliykurnosov/CPP_Projects/bsu-labs/OS/Lab7_Linux/Killer/cmake-build-debug/CMakeFiles/Killer.dir
+/home/vasiliykurnosov/CPP_Projects/bsu-labs/OS/Lab7_Linux/Killer/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/vasiliykurnosov/CPP_Projects/bsu-labs/OS/Lab7_Linux/Killer/cmake-build-debug/CMakeFiles/rebuild_cache.dir
